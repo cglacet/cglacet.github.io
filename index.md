@@ -1,5 +1,6 @@
 ## Python experiments
 
-Trying [Rusty Python][rustpython].
+Trying [Rust Python][rustpython]: [rustpython-exp]
 
+[rustpython-exp]: /rustpython
 [rustpython]: https://rustpython.github.io/
