@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Rust Python"
-permalink: /rustpython/
+title: Rust Python
 ---
 
 ## Test
