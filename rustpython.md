@@ -9,7 +9,9 @@ description: test
     <head>
         <meta charset="utf-8" />
         <title>RustPython Demo</title>
-    <link href="https://rustpython.github.io/demo/styles.css" rel="stylesheet"></head>
+        <link href="https://rustpython.github.io/demo/styles.css" rel="stylesheet">
+        <script charset="utf-8" src="https://rustpython.github.io/demo/1.index.js"></script>
+    </head>
     <body>
         <h1>RustPython Demo</h1>
         <p>
